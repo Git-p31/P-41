@@ -1,0 +1,14 @@
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.AssemblyInfoInputs.cache
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.AssemblyInfo.cs
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.csproj.CoreCompileInputs.cache
+E:\P-41\FactoryMethodWinForms\bin\Debug\net8.0-windows\FactoryMethodWinForms.exe
+E:\P-41\FactoryMethodWinForms\bin\Debug\net8.0-windows\FactoryMethodWinForms.deps.json
+E:\P-41\FactoryMethodWinForms\bin\Debug\net8.0-windows\FactoryMethodWinForms.runtimeconfig.json
+E:\P-41\FactoryMethodWinForms\bin\Debug\net8.0-windows\FactoryMethodWinForms.dll
+E:\P-41\FactoryMethodWinForms\bin\Debug\net8.0-windows\FactoryMethodWinForms.pdb
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.dll
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\refint\FactoryMethodWinForms.dll
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.pdb
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\FactoryMethodWinForms.genruntimeconfig.cache
+E:\P-41\FactoryMethodWinForms\obj\Debug\net8.0-windows\ref\FactoryMethodWinForms.dll

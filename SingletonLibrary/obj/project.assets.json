@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\Beast RP\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\P-41\\P-41\\FactoryMethodWinForms\\FactoryMethodWinForms.csproj",
-      "projectName": "FactoryMethodWinForms",
-      "projectPath": "E:\\P-41\\P-41\\FactoryMethodWinForms\\FactoryMethodWinForms.csproj",
+      "projectUniqueName": "E:\\P-41\\P-41\\SingletonLibrary\\SingletonLibrary.csproj",
+      "projectName": "SingletonLibrary",
+      "projectPath": "E:\\P-41\\P-41\\SingletonLibrary\\SingletonLibrary.csproj",
       "packagesPath": "C:\\Users\\Beast RP\\.nuget\\packages\\",
-      "outputPath": "E:\\P-41\\P-41\\FactoryMethodWinForms\\obj\\",
+      "outputPath": "E:\\P-41\\P-41\\SingletonLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Beast RP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0-windows"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "net8.0-windows7.0": {
-        "targetAlias": "net8.0-windows",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -64,9 +64,6 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WindowsForms": {
-            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"

@@ -10,15 +10,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FactoryMethodWinForms")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SingletonApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8606603a87402252cf73dd08fcaa4c3064b16016")]
-[assembly: System.Reflection.AssemblyProductAttribute("FactoryMethodWinForms")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FactoryMethodWinForms")]
+[assembly: System.Reflection.AssemblyProductAttribute("SingletonApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SingletonApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

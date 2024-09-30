@@ -1,0 +1,12 @@
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfoInputs.cache
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfo.cs
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.csproj.CoreCompileInputs.cache
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.sourcelink.json
+E:\P-41\P-41\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.deps.json
+E:\P-41\P-41\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.dll
+E:\P-41\P-41\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.pdb
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.dll
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\refint\SingletonLibrary.dll
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.pdb
+E:\P-41\P-41\SingletonLibrary\obj\Debug\net8.0\ref\SingletonLibrary.dll

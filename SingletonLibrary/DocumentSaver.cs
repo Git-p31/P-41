@@ -9,18 +9,15 @@ namespace SingletonLibrary
 
         private DocumentSaver() { }
 
-        public static DocumentSaver Instance
+        public static DocumentSaver GetInstance()
         {
-            get
+            lock (_lock)
             {
-                lock (_lock)
+                if (_instance == null)
                 {
-                    if (_instance == null)
-                    {
-                        _instance = new DocumentSaver();
-                    }
-                    return _instance;
+                    _instance = new DocumentSaver();
                 }
+                return _instance;
             }
         }
 

@@ -8,15 +8,15 @@ namespace SingletonApp
         static void Main(string[] args)
         {
             // Використання DbManager
-            DbManager.Instance.ConnectToDatabase();
-            DbManager.Instance.Query("SELECT * FROM Users");
+            DbManager.GetInstance().ConnectToDatabase();
+            DbManager.GetInstance().Query("SELECT * FROM Users");
 
             // Використання DocumentSaver
-            DocumentSaver.Instance.SaveDocument("MyDoc.txt", "Це приклад контенту документа");
+            DocumentSaver.GetInstance().SaveDocument("MyDoc.txt", "Це приклад контенту документа");
 
             // Використання Logger
-            Logger.Instance.Log("Запуск програми");
-            Logger.Instance.Log("Підключення до бази даних завершено");
+            Logger.GetInstance().Log("Запуск програми");
+            Logger.GetInstance().Log("Підключення до бази даних завершено");
         }
     }
 }

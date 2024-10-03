@@ -9,18 +9,15 @@ namespace SingletonLibrary
 
         private DbManager() { }
 
-        public static DbManager Instance
+        public static DbManager GetInstance()
         {
-            get
+            lock (_lock)
             {
-                lock (_lock)
+                if (_instance == null)
                 {
-                    if (_instance == null)
-                    {
-                        _instance = new DbManager();
-                    }
-                    return _instance;
+                    _instance = new DbManager();
                 }
+                return _instance;
             }
         }
 

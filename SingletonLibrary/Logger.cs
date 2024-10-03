@@ -10,18 +10,15 @@ namespace SingletonLibrary
 
         private Logger() { }
 
-        public static Logger Instance
+        public static Logger GetInstance()
         {
-            get
+            lock (_lock)
             {
-                lock (_lock)
+                if (_instance == null)
                 {
-                    if (_instance == null)
-                    {
-                        _instance = new Logger();
-                    }
-                    return _instance;
+                    _instance = new Logger();
                 }
+                return _instance;
             }
         }
 

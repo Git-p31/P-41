@@ -1,0 +1,5 @@
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net8.0\PizzaPrototypeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net8.0\PizzaPrototypeApp.AssemblyInfoInputs.cache
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net8.0\PizzaPrototypeApp.AssemblyInfo.cs
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net8.0\PizzaPrototypeApp.csproj.CoreCompileInputs.cache
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net8.0\PizzaPrototypeApp.sourcelink.json

@@ -1,0 +1,15 @@
+E:\P-41\P-41\PizzaPrototypeApp\bin\Debug\net6.0-windows\PizzaPrototypeApp.exe
+E:\P-41\P-41\PizzaPrototypeApp\bin\Debug\net6.0-windows\PizzaPrototypeApp.deps.json
+E:\P-41\P-41\PizzaPrototypeApp\bin\Debug\net6.0-windows\PizzaPrototypeApp.runtimeconfig.json
+E:\P-41\P-41\PizzaPrototypeApp\bin\Debug\net6.0-windows\PizzaPrototypeApp.dll
+E:\P-41\P-41\PizzaPrototypeApp\bin\Debug\net6.0-windows\PizzaPrototypeApp.pdb
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.AssemblyInfoInputs.cache
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.AssemblyInfo.cs
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.csproj.CoreCompileInputs.cache
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.sourcelink.json
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.dll
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\refint\PizzaPrototypeApp.dll
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.pdb
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\PizzaPrototypeApp.genruntimeconfig.cache
+E:\P-41\P-41\PizzaPrototypeApp\obj\Debug\net6.0-windows\ref\PizzaPrototypeApp.dll

@@ -1,0 +1,15 @@
+E:\P-41\P-41\PizzaBuilderApp\bin\Debug\net6.0-windows\PizzaBuilderApp.exe
+E:\P-41\P-41\PizzaBuilderApp\bin\Debug\net6.0-windows\PizzaBuilderApp.deps.json
+E:\P-41\P-41\PizzaBuilderApp\bin\Debug\net6.0-windows\PizzaBuilderApp.runtimeconfig.json
+E:\P-41\P-41\PizzaBuilderApp\bin\Debug\net6.0-windows\PizzaBuilderApp.dll
+E:\P-41\P-41\PizzaBuilderApp\bin\Debug\net6.0-windows\PizzaBuilderApp.pdb
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.AssemblyInfoInputs.cache
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.AssemblyInfo.cs
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.csproj.CoreCompileInputs.cache
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.sourcelink.json
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.dll
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\refint\PizzaBuilderApp.dll
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.pdb
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\PizzaBuilderApp.genruntimeconfig.cache
+E:\P-41\P-41\PizzaBuilderApp\obj\Debug\net6.0-windows\ref\PizzaBuilderApp.dll
